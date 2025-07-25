@@ -81,8 +81,13 @@ Open Sales & Customer Dashboards.twbx in Tableau Desktop (Public or Professional
 Update Data Sources (if needed):
 
 If Tableau cannot find the datasets, go to:
-
-css
-Copy
-Edit
 Data → Replace Data Source → Browse to datasets/ folder
+
+🌐 Publishing on Tableau Public
+Log in to your Tableau Public account.
+
+Click File → Save to Tableau Public.
+
+Once uploaded, click Share → Copy Embed Code.
+
+Paste the embed code into this README (optional) or your portfolio.
