@@ -9,6 +9,7 @@
 <h2>📁 Project Structure</h2>
 
 sales-dashboard-project/
+├── Preview/ # Preview images (PNG)
 ├── datasets/ # Data files (Excel/CSV)
 ├── images/ # Dashboard screenshots
 ├── Sales & Customer Dashboards.twbx # Tableau workbook
@@ -62,10 +63,10 @@ This project includes two fully interactive dashboards created in Tableau to hel
 <h2>🖼️ Previews</h2>
 
 <p><strong>Sales Dashboard:</strong></p>
-<img src="images/Sales Dashboard.png" alt="Sales Dashboard" width="700"/>
+<img src="Preview/Sales Dashboard.png" alt="Sales Dashboard" width="700"/>
 
 <p><strong>Customer Dashboard:</strong></p>
-<img src="images/Customer Dashboard.png" alt="Customer Dashboard" width="700"/>
+<img src="Preview/Customer Dashboard.png" alt="Customer Dashboard" width="700"/>
 
 ---
 
